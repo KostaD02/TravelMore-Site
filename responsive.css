@@ -1,0 +1,199 @@
+@media screen and (max-width:300px){
+.sidebar-container{
+    width: 150px;
+}
+.sidebar-navigation li a{
+    font-size: 14px;
+}
+.user-face p{
+    font-size: 13px;
+}
+main{
+    padding-left: 150px !important;
+}
+main .headerText{
+    font-size: 20px;
+}
+main .search {
+    margin: 3px auto;
+}
+.search span{
+    font-size: 10px;
+}
+main .search{
+    width: 95%;
+}
+main .carusel{
+    width: 145px;
+}
+main .bestRegions h3{
+    font-size: 17px;
+}
+main .card-img, .card-img-top{
+    height: auto;
+    width: auto;
+}
+main .CardsDeck .card-deck .card p{
+    font-size: 13px;
+}
+main .CardsDeck .card-body{
+    padding:0px;
+}
+main .bestHotels h3{
+    font-size: 17px;
+}
+main .bestHotels p{
+    font-size: 13px;
+}
+.topNews h3{
+    font-size: 20px;
+}
+.topNews #Counter{
+    font-size: 15px;
+}
+.postDisplay .card-title {
+font-size: 15px;
+}
+.postDisplay .card-text {
+font-size: 13px;
+}
+.postDisplay .card-body {
+    padding: 0px;
+}
+.displayAppartments h3{
+    font-size: 20px;
+}
+#displayApparmentsCounter{
+    font-size: 15px;
+}
+.cardsDisplayAppartments img{
+    width: 100%;
+    height: 100%;
+}
+.cardsDisplayAppartments .card-body{
+    padding: 5px;
+}
+.cardsDisplayAppartments p{
+    font-size: 13px;
+}
+#login{
+    width: 300px;
+}
+#login a{
+    width: 100%;
+    display: inline-block;
+}
+#displayType {
+    font-size: 15px;
+}
+#inputPasswordConfirm::placeholder{
+    font-size: 7px;
+    padding: 0px;
+}
+#userCounter,#postCounter{
+    font-size: 15px;
+}
+
+}
+@media screen and (max-width:700px) and (min-width:301px){
+.sidebar-container{
+    width: 150px;
+}
+.sidebar-navigation li a{
+    font-size: 14px;
+}
+.user-face p{
+    font-size: 13px;
+}
+main{
+    padding-left: 150px !important;
+}
+main .headerText{
+    font-size: 20px;
+}
+main .search {
+    margin: 3px auto;
+}
+.search span{
+    font-size: 10px;
+}
+main .search{
+    width: 95%;
+}
+main .carusel{
+    width: 145px;
+}
+main .bestRegions h3{
+    font-size: 17px;
+}
+main .card-img, .card-img-top{
+    height: auto;
+    width: auto;
+}
+main .CardsDeck .card-deck .card p{
+    font-size: 13px;
+}
+main .CardsDeck .card-body{
+    padding:0px;
+}
+main .bestHotels h3{
+    font-size: 17px;
+}
+main .bestHotels p{
+    font-size: 13px;
+}
+.topNews h3{
+    font-size: 20px;
+}
+.topNews #Counter{
+    font-size: 15px;
+}
+.postDisplay .card-title {
+font-size: 15px;
+}
+.postDisplay .card-text {
+font-size: 13px;
+}
+.postDisplay .card-body {
+    padding: 0px;
+}
+.displayAppartments h3{
+    font-size: 20px;
+}
+#displayApparmentsCounter{
+    font-size: 15px;
+}
+.cardsDisplayAppartments img{
+    width: 100%;
+    height: 100%;
+}
+.cardsDisplayAppartments .card-body{
+    padding: 5px;
+}
+.cardsDisplayAppartments p{
+    font-size: 13px;
+}
+#login{
+    width: 300px;
+}
+#login a{
+    width: 100%;
+    display: inline-block;
+}
+#displayType {
+    font-size: 15px;
+}
+#inputPasswordConfirm::placeholder{
+    font-size: 13px;
+    padding: 0px;
+}
+#userCounter,#postCounter{
+    font-size: 15px;
+}
+.search input::placeholder{
+    font-size: 13px;
+}
+.registration #LogiN input{
+    width: 350px;
+}
+}
